@@ -1,4 +1,4 @@
-CREATE TABLE Persons (
+CREATE TABLE LOGIN (
     username varchar(255),
     usermail varchar(255),
     usercontact varchar(255),
